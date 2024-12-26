@@ -1,4 +1,4 @@
-# Keyword Classification on Google Speech Commands Dataset
+# Keyword Spotting on Google Speech Commands Dataset
 
 This project explores and processes the [Google Speech Commands Dataset](https://arxiv.org/abs/1804.03209) to build and train a model for recognizing speech commands. The notebook provides step-by-step data preprocessing, feature extraction, model definition, and training.
 
